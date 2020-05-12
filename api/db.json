@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "alex",
+      "description": "arcombe",
+      "id": 1
+    },
+    {
+      "title": "How to Quake",
+      "description": "This is the ultimate guide to Quake like a God!!!  ",
+      "userId": "112600861252193747036",
+      "id": 2
+    },
+    {
+      "title": "History",
+      "description": "This should redirect me",
+      "userId": "112600861252193747036",
+      "id": 3
+    },
+    {
+      "title": "Something cool",
+      "description": "Coooool",
+      "userId": "112600861252193747036",
+      "id": 4
+    }
+  ]
+}
